@@ -1,0 +1,27 @@
+{
+  "name": "is-private-browser",
+  "version": "1.0.0",
+  "description": "A front-end module for detecting iOS private browsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuttle/node-is-private-browser.git"
+  },
+  "keywords": [
+    "browser",
+    "frontend",
+    "ios",
+    "privacy",
+    "private",
+    "detection"
+  ],
+  "author": "Adam Tuttle <adamtuttlecodes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atuttle/node-is-private-browser/issues"
+  },
+  "homepage": "https://github.com/atuttle/node-is-private-browser#readme"
+}
