@@ -8,3 +8,11 @@ if (isPrivateBrowser()){
 	alert('This app requires that you not use an iOS private browsing session');
 }
 ```
+
+## Install
+
+Get it from npm:
+
+```
+npm install --save is-private-browser
+```
